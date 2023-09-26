@@ -1,0 +1,2 @@
+model_checkpoint_path: "/workspace/project/godeye/\346\214\207\346\240\207\346\265\213\350\257\204/data/dataset/\351\274\223\345\212\261/model/embed_64_dp_0.4_bs_200_l2_1e-4_lr_0.98_sl_70_h_2/transmodel_lastest"
+all_model_checkpoint_paths: "/workspace/project/godeye/\346\214\207\346\240\207\346\265\213\350\257\204/data/dataset/\351\274\223\345\212\261/model/embed_64_dp_0.4_bs_200_l2_1e-4_lr_0.98_sl_70_h_2/transmodel_lastest"
